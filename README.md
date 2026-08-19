@@ -25,9 +25,6 @@
 - Productionizing MapReduce / Spark jobs
 - Real-world data pipelines
 
-###  Connect
-- GitHub: [ewangila](https://github.com/ewangila)
-
 ---
 
 *"Breaking down complex systems and turning messy problems into simple, scalable solutions."*
