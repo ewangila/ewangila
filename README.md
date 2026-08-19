@@ -4,14 +4,15 @@
 
 **Data Scientist** based in Nairobi, focused on turning messy data into clear, scalable insights.
 
-###  Core Skills
+### 🛠️ Core Skills
 - **Languages & Tools:** Python, SQL, Git
 - **Data & Analytics:** Pandas, NumPy, SciPy, Matplotlib
 - **Big Data:** PySpark (RDD, DataFrame, Spark SQL, SparkContext), MapReduce (mrjob)
 - **Other:** Flask, Jupyter
 
-###  Featured Projects
+### 📌 Featured Projects
 | Project | Description |
+|---------|-------------|
 | [call_duration_analysis](https://github.com/ewangila/call_duration_analysis) | Call-center duration analysis under normal distribution + simplified staffing model |
 | [breast-cancer-pyspark-analysis](https://github.com/ewangila/breast-cancer-pyspark-analysis) | Large-scale EDA & feature engineering on breast cancer data with PySpark |
 | [spark](https://github.com/ewangila/spark) | Sales data cleaning, SQL aggregations, customer/product insights & visualizations |
@@ -19,14 +20,14 @@
 | [mapreduce_romeo_juliet](https://github.com/ewangila/mapreduce_romeo_juliet) | MapReduce jobs (word count, top-N, name tracking) on Romeo & Juliet |
 | [Flask-API-and-MapReduce-job](https://github.com/ewangila/Flask-API-and-MapReduce-job) | Flask API that triggers an mrjob MapReduce job for fraud transaction counting |
 
-### Currently exploring
+### 🔭 Currently exploring
 - Deeper PySpark (performance, Spark SQL, ML pipelines)
 - Productionizing MapReduce / Spark jobs
 - Real-world data pipelines
 
-###  Connect
+### 📫 Connect
 - GitHub: [ewangila](https://github.com/ewangila)
 
-
+---
 
 *"Breaking down complex systems and turning messy problems into simple, scalable solutions."*
