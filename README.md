@@ -10,15 +10,15 @@
 - **Big Data:** PySpark (RDD, DataFrame, Spark SQL, SparkContext), MapReduce (mrjob)
 - **Other:** Flask, Jupyter
 
-###  Featured Projects
+### Featured Projects
+
 | Project | Description |
-|---------|-------------|
-| [call_duration_analysis](https://github.com/ewangila/call_duration_analysis) | Call-center duration analysis under normal distribution + simplified staffing model |
-| [breast-cancer-pyspark-analysis](https://github.com/ewangila/breast-cancer-pyspark-analysis) | Large-scale EDA & feature engineering on breast cancer data with PySpark |
-| [spark](https://github.com/ewangila/spark) | Sales data cleaning, SQL aggregations, customer/product insights & visualizations |
-| [RDD](https://github.com/ewangila/RDD) | PySpark RDD practice – sensor data (TransLogic) + sales transformations |
-| [mapreduce_romeo_juliet](https://github.com/ewangila/mapreduce_romeo_juliet) | MapReduce jobs (word count, top-N, name tracking) on Romeo & Juliet |
-| [Flask-API-and-MapReduce-job](https://github.com/ewangila/Flask-API-and-MapReduce-job) | Flask API that triggers an mrjob MapReduce job for fraud transaction counting |
+| :--- | :--- |
+| [Movie_Industry_Investment_Strategy](https://github.com/ewangila/Movie_Industry_Investment_Strategy) | Data-driven ROI analysis on budgets, genres, and release timing for film investments. |
+| [Statistical_Inference](https://github.com/ewangila/Statistical_Inference) | Hypothesis testing, ANOVA with Tukey’s HSD, and chi-square analysis on experimental data. |
+| [breast-cancer-pyspark-analysis](https://github.com/ewangila/breast-cancer-pyspark-analysis) | Large-scale EDA & feature engineering on breast cancer data with PySpark. |
+| [call_duration_analysis](https://github.com/ewangila/call_duration_analysis) | Call-center duration analysis under normal distribution + simplified staffing model. |
+| [Flask-API-and-MapReduce-job](https://github.com/ewangila/Flask-API-and-MapReduce-job) | Flask API triggering an mrjob MapReduce job for transaction fraud counting. |
 
 ###  Currently exploring
 - Deeper PySpark (performance, Spark SQL, ML pipelines)
