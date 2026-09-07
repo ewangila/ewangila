@@ -9,16 +9,19 @@
 - **Data & Analytics:** Pandas, NumPy, SciPy, Matplotlib
 - **Big Data:** PySpark (RDD, DataFrame, Spark SQL, SparkContext), MapReduce (mrjob)
 - **Other:** Flask, Jupyter
-
+  
 ### Featured Projects
 
 | Project | Description |
 | --- | --- |
-| [SMS_Appointment_AB_Test](https://github.com/ewangila/SMS_Appointment_AB_Test) | Statistical A/B testing & hypothesis evaluation analyzing SMS reminder impact on attendance rates. |
-| [Ecommerce_Conversion_Analysis](https://github.com/ewangila/Ecommerce_Conversion_Analysis) | Funnel optimization and user behavior metrics analysis to drive customer conversion. |
-| [breast-cancer-pyspark-analysis](https://github.com/ewangila/breast-cancer-pyspark-analysis) | Large-scale EDA & feature engineering on breast cancer data using PySpark. |
-| [Flask-API-and-MapReduce-job](https://github.com/ewangila/Flask-API-and-MapReduce-job) | Flask API triggering an mrjob MapReduce job for transaction fraud counting. |
-| [Movie_Industry_Investment_Strategy](https://github.com/ewangila/Movie_Industry_Investment_Strategy) | Data-driven ROI analysis on budgets, genres, and release timing for film investments. |
+| [Ecommerce_Conversion_Analysis](https://github.com/ewangila/Ecommerce_Conversion_Analysis) | Statistical A/B test evaluating the impact of a website redesign on conversion rates using a two-proportion Z-test. |
+| [Retail_Analysis](https://github.com/ewangila/Retail_Analysis) | End-to-end statistical analysis of retail customer behavior across locations — Kruskal-Wallis, Welch’s t-test, χ², effect sizes, and MDE-based recommendations. |
+| [SMS_Appointment_AB_Test](https://github.com/ewangila/SMS_Appointment_AB_Test) | Python toolkit for designing, powering, and analyzing A/B tests (focused on SMS appointment reminders). |
+| [Hypothesis_Testing_Channels](https://github.com/ewangila/Hypothesis_Testing_Channels) | Two-proportion Z-test comparing Chat vs Email success rates with clear business interpretation. |
+| [Bottle_Fill_Quality_Control](https://github.com/ewangila/Bottle_Fill_Quality_Control) | Statistical Quality Control (SQC) analysis of a filling process — normality tests, process capability, and rejection probability calculations. |
+| [Movie_Industry_Investment_Strategy](https://github.com/ewangila/Movie_Industry_Investment_Strategy) | Data-driven analysis of movie budgets, genres, release timing, and ROI to support smarter investment decisions. |
+| [breast_cancer_pyspark_analysis](https://github.com/ewangila/breast_cancer_pyspark_analysis) | Large-scale exploratory data analysis and feature engineering on breast cancer data using PySpark & Spark SQL. |
+| [Flask_Mapreduce_API](https://github.com/ewangila/Flask_Mapreduce_API) | Flask API that triggers an mrjob MapReduce job to count fraudulent transactions. |
 
 ###  Currently exploring
 - Deeper PySpark (performance, Spark SQL, ML pipelines)
