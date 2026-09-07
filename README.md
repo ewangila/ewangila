@@ -13,12 +13,12 @@
 ### Featured Projects
 
 | Project | Description |
-| :--- | :--- |
-| [Movie_Industry_Investment_Strategy](https://github.com/ewangila/Movie_Industry_Investment_Strategy) | Data-driven ROI analysis on budgets, genres, and release timing for film investments. |
-| [Statistical_Inference](https://github.com/ewangila/Statistical_Inference) | Hypothesis testing, ANOVA with Tukey’s HSD, and chi-square analysis on experimental data. |
-| [breast-cancer-pyspark-analysis](https://github.com/ewangila/breast-cancer-pyspark-analysis) | Large-scale EDA & feature engineering on breast cancer data with PySpark. |
-| [call_duration_analysis](https://github.com/ewangila/call_duration_analysis) | Call-center duration analysis under normal distribution + simplified staffing model. |
+| --- | --- |
+| [SMS_Appointment_AB_Test](https://github.com/ewangila/SMS_Appointment_AB_Test) | Statistical A/B testing & hypothesis evaluation analyzing SMS reminder impact on attendance rates. |
+| [Ecommerce_Conversion_Analysis](https://github.com/ewangila/Ecommerce_Conversion_Analysis) | Funnel optimization and user behavior metrics analysis to drive customer conversion. |
+| [breast-cancer-pyspark-analysis](https://github.com/ewangila/breast-cancer-pyspark-analysis) | Large-scale EDA & feature engineering on breast cancer data using PySpark. |
 | [Flask-API-and-MapReduce-job](https://github.com/ewangila/Flask-API-and-MapReduce-job) | Flask API triggering an mrjob MapReduce job for transaction fraud counting. |
+| [Movie_Industry_Investment_Strategy](https://github.com/ewangila/Movie_Industry_Investment_Strategy) | Data-driven ROI analysis on budgets, genres, and release timing for film investments. |
 
 ###  Currently exploring
 - Deeper PySpark (performance, Spark SQL, ML pipelines)
