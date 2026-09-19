@@ -26,10 +26,11 @@
 | [Ecommerce_Conversion_Analysis](https://github.com/ewangila/Ecommerce_Conversion_Analysis) | Statistical A/B test evaluating the impact of a website redesign on conversion rates using a two-proportion Z-test. |
 | [Flask_Mapreduce_API](https://github.com/ewangila/Flask_Mapreduce_API) | Flask API that triggers an mrjob MapReduce job to count fraudulent transactions. |
 
-###  Currently exploring
-- Deeper PySpark (performance, Spark SQL, ML pipelines)
-- Productionizing MapReduce / Spark jobs
-- Real-world data pipelines
+### Currently exploring
+- Advanced regression diagnostics and model selection
+- Causal inference & experimental design
+- Turning statistical analyses into reusable Python toolkits
+- Scaling statistical workflows with PySpark
 
 ---
 
