@@ -4,11 +4,16 @@
 
 **Data Scientist** based in Nairobi, focused on turning messy data into clear, scalable insights.
 
-###  Core Skills
-- **Languages & Tools:** Python, SQL, Git
-- **Data & Analytics:** Pandas, NumPy, SciPy, Matplotlib
-- **Big Data:** PySpark (RDD, DataFrame, Spark SQL, SparkContext), MapReduce (mrjob)
-- **Other:** Flask, Jupyter
+### Core Skills
+
+- **Languages & Tools:** Python, SQL, Git, Jupyter
+- **Statistical Modeling & Inference:**  
+  OLS / Multiple Linear Regression, Regularized Regression (Ridge, Lasso, ElasticNet),  
+  Logistic Regression, Hypothesis Testing (t-tests, Z-tests, ANOVA, Kruskal-Wallis, χ²),  
+  Residual Diagnostics, VIF, Cross-Validation, Effect Sizes
+- **Data Analysis & Visualization:** Pandas, NumPy, SciPy, Matplotlib, Seaborn
+- **Big Data:** PySpark (RDD, DataFrame, Spark SQL), MapReduce (mrjob)
+- **Other:** Flask, Experimental Design & A/B Testing
   
 ### Featured Projects
 
@@ -18,7 +23,6 @@
 | [Linear_Assumption](https://github.com/ewangila/Linear_Assumption) | Object-oriented Python toolkit for validating the four Gauss-Markov assumptions of OLS regression (linearity, independence, normality, homoscedasticity) with formal tests and diagnostic plots. |
 | [Species_Diversity_Analysis](https://github.com/ewangila/Species_Diversity_Analysis) | Multiple linear regression of plant species richness on the Galápagos Islands. Models Area, Elevation, and nearest-island distance with VIF diagnostics, residual checks, cross-validation, and prediction intervals. |
 | [Horsepower_mpg_Regression](https://github.com/ewangila/Horsepower_mpg_Regression) | OLS regression of mpg ~ horsepower on the classic mtcars dataset, including full residual diagnostics, confidence/prediction intervals, and assumption testing (Shapiro-Wilk, Breusch-Pagan, Durbin-Watson). |
-| [Retail_Analysis](https://github.com/ewangila/Retail_Analysis) | End-to-end statistical analysis of retail customer behavior — Kruskal-Wallis, Welch’s t-test, χ², effect sizes, and MDE-based recommendations. |
 | [Ecommerce_Conversion_Analysis](https://github.com/ewangila/Ecommerce_Conversion_Analysis) | Statistical A/B test evaluating the impact of a website redesign on conversion rates using a two-proportion Z-test. |
 | [breast_cancer_pyspark_analysis](https://github.com/ewangila/breast_cancer_pyspark_analysis) | Large-scale exploratory data analysis and feature engineering on breast cancer data using PySpark & Spark SQL. |
 | [Flask_Mapreduce_API](https://github.com/ewangila/Flask_Mapreduce_API) | Flask API that triggers an mrjob MapReduce job to count fraudulent transactions. |
