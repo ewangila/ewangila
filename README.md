@@ -7,6 +7,7 @@
 ### Core Skills
 
 - **Languages & Tools:** Python, SQL, Git, Jupyter
+- **Machine Learning:** scikit-learn, PCA, K-Means, k-NN, GMM, Cost-Sensitive Classification
 - **Statistical Modeling & Inference:**  
   OLS / Multiple Linear Regression, Regularized Regression (Ridge, Lasso, ElasticNet),  
   Logistic Regression, Hypothesis Testing (t-tests, Z-tests, ANOVA, Kruskal-Wallis, χ²),  
